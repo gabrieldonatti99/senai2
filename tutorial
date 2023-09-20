@@ -1,0 +1,7 @@
+Tutorial Atividade01A:
+
+1. Abra o terminal com Ctrl + Alt + T.
+2. Acesse o ambiente Node.js com o comando: source ./nodejs-env/bin/activate.
+3. Navegue até a pasta desejada no terminal: cd ~/nodejs-env.
+4. Execute a aplicação com: node index.js (verifique o nome correto do arquivo).
+5. Abra o navegador e digite localhost:8032 na barra de pesquisa para acessar a página.
